@@ -10,8 +10,9 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>ian-springboot</artifactId>
     <packaging>pom</packaging>
+
     <modules>
-        <module>ian-springboot-multidb</module>
+        <module>ian-springboot-demo</module>
     </modules>
 
 
