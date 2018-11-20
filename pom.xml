@@ -13,6 +13,7 @@
         <module>ian-netty</module>
         <module>ian-doc</module>
         <module>ian-core</module>
+      <module>ian-designpattern</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -62,6 +63,13 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <scm>
+        <connection>scm:git:https://github.com/Ian0625/ian.git</connection>
+        <url>https://github.com/Ian0625/ian.git</url>
+        <developerConnection>scm:git:https://github.com/Ian0625/ian.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
     <build>
         <plugins>

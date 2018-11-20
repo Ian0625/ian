@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <parent>
+    <artifactId>ian</artifactId>
+    <groupId>org.hx</groupId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+
+  <artifactId>ian-designpattern</artifactId>
+  <packaging>pom</packaging>
+  <modules>
+    <module>ian-designpattern-factory</module>
+    <module>ian-designpattern-abstractfactory</module>
+    <module>ian-designpattern-singleton</module>
+    <module>ian-designpattern-builder</module>
+    <module>ian-designpattern-prototype</module>
+    <module>ian-designpattern-adapter</module>
+    <module>ian-designpattern-decorator</module>
+    <module>ian-designpattern-proxy</module>
+    <module>ian-designpattern-facade</module>
+  </modules>
+
+
+</project>
