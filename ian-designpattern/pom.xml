@@ -21,6 +21,20 @@
     <module>ian-designpattern-decorator</module>
     <module>ian-designpattern-proxy</module>
     <module>ian-designpattern-facade</module>
+    <module>ian-designpattern-bridge</module>
+    <module>ian-designpattern-composite</module>
+    <module>ian-designpattern-flyweight</module>
+    <module>ian-designpattern-strategy</module>
+    <module>ian-designpattern-templatemethod</module>
+    <module>ian-designpattern-observer</module>
+    <module>ian-designpattern-iterator</module>
+    <module>ian-designpattern-chain</module>
+    <module>ian-designpattern-command</module>
+    <module>ian-designpattern-memento</module>
+    <module>ian-designpattern-state</module>
+    <module>ian-designpattern-visitor</module>
+    <module>ian-designpattern-mediator</module>
+    <module>ian-designpattern-interpreter</module>
   </modules>
 
 

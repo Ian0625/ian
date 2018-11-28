@@ -17,6 +17,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <java.version>1.8</java.version>
     <spring-boot-starter-parent>1.5.17.RELEASE</spring-boot-starter-parent>
+    <mybatis-spring-boot-starter>1.2.0</mybatis-spring-boot-starter>
   </properties>
 
   <dependencyManagement>
@@ -37,10 +38,11 @@
       <artifactId>spring-boot-starter-web</artifactId>
     </dependency>
 
+    <!-- db -->
     <dependency>
-      <groupId>org.hx</groupId>
-      <artifactId>ian-common</artifactId>
-      <version>${project.version}</version>
+      <groupId>org.mybatis.spring.boot</groupId>
+      <artifactId>mybatis-spring-boot-starter</artifactId>
+      <version>${mybatis-spring-boot-starter}</version>
     </dependency>
 
     <dependency>

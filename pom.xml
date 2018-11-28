@@ -14,6 +14,7 @@
         <module>ian-doc</module>
         <module>ian-core</module>
       <module>ian-designpattern</module>
+      <module>ian-refactoring</module>
     </modules>
     <packaging>pom</packaging>
 
